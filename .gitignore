@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyd.disabled
+*.egg-info/
+.env
+venv/
+.venv/
+*.db
+*.sqlite3
+.pytest_cache/
+
+# Node
+frontend/node_modules/
+frontend/.env
+
+# Build artifacts (keep dist)
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
